@@ -13,5 +13,6 @@ export default {
     APP_CLIENT_ID: '7l4lhn1v16nhbtsecj2rtveha8',
     IDENTITY_POOL_ID: 'us-east-1:b0a2074c-1f07-4384-958e-b5d607fb36f5'
   },
-  MAX_ATTACHMENT_SIZE: 5000000
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: 'pk_test_okv4jQ270V5VSQQGZfJVLgS9006IJ1aaXy'
 };
